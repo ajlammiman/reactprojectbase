@@ -1,0 +1,24 @@
+{
+  "name": "reactproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajlammiman/reactprojectbase.git"
+  },
+  "author": "Adam Lammiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajlammiman/reactprojectbase/issues"
+  },
+  "homepage": "https://github.com/ajlammiman/reactprojectbase#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-open": "^3.0.0"
+  }
+}
