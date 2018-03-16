@@ -1,3 +1,3 @@
-var App = console.log('foo');
+var App = console.log('test');
 
 module.exports = App;

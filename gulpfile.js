@@ -53,6 +53,7 @@ gulp.task('js', function(){
 gulp.task('watch', function(){
     gulp.watch(config.paths.html, ['html']);
     gulp.watch(config.paths.js, ['js']);
+    
 });
 
 gulp.task('default',['html', 'js', 'open', 'watch']);
